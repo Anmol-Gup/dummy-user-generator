@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "npm package to generate fake users",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Anmol-Gup/dummy-user-generator/issues"
   },
-  "homepage": "https://github.com/Anmol-Gup/dummy-user-generator#readme"
+  "homepage": "https://github.com/Anmol-Gup/dummy-user-generator#readme",
+  "dependencies": {
+    "node-fetch": "*"
+  }
 }

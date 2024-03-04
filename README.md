@@ -13,9 +13,10 @@ npm install dummy-user-generator
 ```
 
 ## Usage
-const { GetUsers, GetUserById } = require('dummy-user-generator');
 
 ```
+import {GetUsers, GetUserById} from 'dummy-user-generator'
+
 // Get a list of dummy users
 GetUsers().then(users => {
     console.log(users);
