@@ -13,7 +13,10 @@
   },
   "keywords": [
     "npm",
-    "npm package"
+    "npm package",
+    "dummy users",
+    "fake user generator",
+    "dummy data"
   ],
   "author": "Surya",
   "license": "ISC",
