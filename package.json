@@ -1,6 +1,6 @@
 {
   "name": "dummy-user-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "npm package to generate fake users",
   "main": "index.js",
   "type": "module",
